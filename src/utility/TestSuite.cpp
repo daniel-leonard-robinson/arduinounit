@@ -24,6 +24,8 @@ THE SOFTWARE.
 #include "Test.h"
 #include "SerialReporter.h"
 
+#include "itoa.h"
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
