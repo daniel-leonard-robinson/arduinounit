@@ -1,5 +1,7 @@
 #include <iostream>
 #include <fstream>
+#include <string.h>
+#include <stdlib.h>
 
 struct MkCompare
 {
